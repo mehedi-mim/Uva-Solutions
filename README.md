@@ -1,2 +1,1 @@
-# Uva-problems
-All my codes
+# Some codes of problems that I solved on UVA online Judge
